@@ -5,4 +5,8 @@
 
 ### 1. Finance
 
-### 2. 
+### 2. Health
+
+### 3. Sleep
+
+### 4. Organization and focus - no digital clutter
